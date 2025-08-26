@@ -1,6 +1,6 @@
-## Merhaba 👋
+## Merhaba Ben **Yaşar Karasu**  👋
 
-Ben **Yaşar Karasu**  
+
 💻 Frontend & UI Developer | 🎨 GitHub arayüz tasarımları yapıyorum
 
 ---
