@@ -15,7 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&logoWidth=20)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white&logoWidth=20)
 ![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white&logoWidth=20)
-![.NET 9](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white&style=flat-square&logoWidth=20)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat-square&logo=aspdotnet&logoColor=white&logoWidth=20)
 
 
